@@ -1,0 +1,101 @@
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\ApplicationInsights.config
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\csc.exe
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\System.Collections.Immutable.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\System.Reflection.Metadata.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\vbc.exe
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\VBCSCompiler.exe
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\roslyn\VBCSCompiler.exe.config
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\MVCEventCalendar.dll.config
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\MVCEventCalendar.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\MVCEventCalendar.pdb
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.SqlServer.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.DependencyCollector.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.Web.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.WindowsServer.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.ApplicationInsights.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.Web.Infrastructure.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Helpers.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Mvc.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Razor.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Deployment.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Razor.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.SqlServer.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.DependencyCollector.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.Web.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.WindowsServer.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.ApplicationInsights.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Razor.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Deployment.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Razor.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Helpers.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Mvc.xml
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\obj\Debug\MVCEventCalendar.csprojResolveAssemblyReference.cache
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\obj\Debug\MVCEventCalendar.dll
+F:\Experiment\MyBlogs\MVC\MVCEventCalendar\MVCEventCalendar\obj\Debug\MVCEventCalendar.pdb
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\ApplicationInsights.config
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\csc.exe
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\vbc.exe
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\MVCEventCalendar.dll.config
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\MVCEventCalendar.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\MVCEventCalendar.pdb
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.SqlServer.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.Web.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Helpers.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Mvc.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Razor.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Razor.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\EntityFramework.SqlServer.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.Web.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Razor.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Webpages.Razor.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Helpers.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\bin\System.Web.Mvc.xml
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\obj\Debug\MVCEventCalendar.csprojResolveAssemblyReference.cache
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\obj\Debug\MVCEventCalendar.csproj.CoreCompileInputs.cache
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\obj\Debug\MVCEventCalendar.dll
+C:\Users\Xpelliars\Downloads\MVCEventCalendar (1)\MVCEventCalendar\MVCEventCalendar\obj\Debug\MVCEventCalendar.pdb
